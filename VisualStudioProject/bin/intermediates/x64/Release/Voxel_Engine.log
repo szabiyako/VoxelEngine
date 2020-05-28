@@ -1,0 +1,8 @@
+﻿  World.cpp
+  Создание кода
+  2 of 1626 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+glew32s.lib(glew.obj) : warning LNK4099: "vc120.pdb" PDB не найден с "glew32s.lib(glew.obj)" или на "C:\Users\szabi\source\repos\Voxel_Engine\bin\x64\Release\vc120.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  Voxel_Engine.vcxproj -> C:\Users\szabi\source\repos\Voxel_Engine\bin\x64\Release\Voxel_Engine.exe
